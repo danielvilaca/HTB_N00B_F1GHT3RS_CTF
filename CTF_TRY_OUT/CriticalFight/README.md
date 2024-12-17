@@ -1,4 +1,4 @@
-# <h1 align="center">Critical Fight CTF Challenge</h1>
+# <h1 align="center">Critical Fight CTF Challenge (950p)</h1>
 
 ---
 
