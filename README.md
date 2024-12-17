@@ -2,6 +2,6 @@
 
 ---
 
-<h3 align="center">Repository for the Hack The Box CTF Team Challenges </h3>
+<h3 align="center">Repository for the Hack The Box N00B_F1GHT3RS CTF Team Challenges </h3>
 
 ---
