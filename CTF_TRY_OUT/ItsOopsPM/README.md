@@ -1,4 +1,4 @@
-# <h1 align="center">It's Oops PM CTF Challenge (PWN - 1000p)</h1>
+# <h1 align="center">It's Oops PM CTF Challenge (PWNED - 1000p)</h1>
 
 ---
 
