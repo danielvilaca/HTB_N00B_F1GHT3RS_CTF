@@ -1,4 +1,4 @@
-# <h1 align="center">Shush Protocol CTF Challenge (PWN - 975p)</h1>
+# <h1 align="center">Shush Protocol CTF Challenge (PWNED - 975p)</h1>
 
 ---
 
