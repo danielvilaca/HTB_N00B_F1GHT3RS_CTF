@@ -15,5 +15,4 @@ You and your faction find yourselves cornered in a refuge corridor inside a maze
 
   <img src = "https://github.com/user-attachments/assets/33efdb0c-127a-4cf9-b742-c17ecb12d0a1">
 
-  
 </p>
