@@ -12,3 +12,10 @@ The flag is located in /flag.txt
 </p>
 
 ---
+
+<p align="center">
+
+  <img src = "https://github.com/user-attachments/assets/68d37dde-c027-40b1-be1a-af02b939e62c">
+
+
+</p>
