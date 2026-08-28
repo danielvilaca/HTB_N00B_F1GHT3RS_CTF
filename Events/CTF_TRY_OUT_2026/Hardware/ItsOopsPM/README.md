@@ -13,4 +13,8 @@ Determined to exploit this, they turn to their tech specialist. Can you connect 
   
 </p>
 
+<p align="center">
+  <img src="htb_ctf_itsoopspm.png" />
+</p>
+
 ---
