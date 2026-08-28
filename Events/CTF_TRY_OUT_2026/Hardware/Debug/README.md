@@ -11,4 +11,8 @@ Can you help to decode the signal and find the source of the interference?
   
 </p>
 
+<p align="center">
+  <img src="debug_htb_ctf.png" />
+</p>
+
 ---
