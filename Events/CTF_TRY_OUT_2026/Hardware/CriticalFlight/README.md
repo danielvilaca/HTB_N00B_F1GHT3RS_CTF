@@ -6,7 +6,7 @@
 
 ---
 
-<h3 align="center">First key (Mirrored)</h3>
+<h3 align="center">First key</h3>
 
 ---
 
@@ -21,5 +21,5 @@
 ---
 
 <p align="center">
-  <img src="critical_flight_key2.png" />
+  <img src="ctf_critical_flight_key2.png" />
 </p>
